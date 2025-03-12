@@ -1,0 +1,14 @@
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\bin\Debug\net9.0\DataStructuresAndAlgorithms.exe
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\bin\Debug\net9.0\DataStructuresAndAlgorithms.deps.json
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\bin\Debug\net9.0\DataStructuresAndAlgorithms.runtimeconfig.json
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\bin\Debug\net9.0\DataStructuresAndAlgorithms.dll
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\bin\Debug\net9.0\DataStructuresAndAlgorithms.pdb
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\obj\Debug\net9.0\DataStructuresAndAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\obj\Debug\net9.0\DataStructuresAndAlgorithms.AssemblyInfoInputs.cache
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\obj\Debug\net9.0\DataStructuresAndAlgorithms.AssemblyInfo.cs
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\obj\Debug\net9.0\DataStructuresAndAlgorithms.csproj.CoreCompileInputs.cache
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\obj\Debug\net9.0\DataStructuresAndAlgorithms.dll
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\obj\Debug\net9.0\refint\DataStructuresAndAlgorithms.dll
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\obj\Debug\net9.0\DataStructuresAndAlgorithms.pdb
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\obj\Debug\net9.0\DataStructuresAndAlgorithms.genruntimeconfig.cache
+C:\Dev\Data_structures_and_algorithms\arrays\DataStructuresAndAlgorithms\obj\Debug\net9.0\ref\DataStructuresAndAlgorithms.dll
