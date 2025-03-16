@@ -78,18 +78,18 @@ public class StringInverter
 
         var left = 0;
         var right = 0;
-        
-        while(right < s.Length -1)
+
+        while (right < s.Length - 1)
         {
-            if(s[right] != ' ')
+            if (s[right] != ' ')
             {
                 right++;
             }
             else
             {
-                res += Array.Reverse(s.Substring(left, right + 1));
+                res += Array.Reverse(charArray, left, right + 1);
                 right++;
-                left = right;  
+                left = right;
             }
         }
         res += ' ';
