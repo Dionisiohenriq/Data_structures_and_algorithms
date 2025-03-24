@@ -122,7 +122,6 @@ public class StringInverter
         {
             if (item.Value[1] == 1)
                 return item.Value[0];
-
         }
         return -1;
     }
