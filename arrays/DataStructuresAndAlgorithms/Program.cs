@@ -19,9 +19,10 @@ public class DataStructuresAndAlgorithms
         // Console.WriteLine("Original Phrase: " + phrase);
         // Console.WriteLine("Inverted Phrase: " + invertedPhrase);
 
-        string input = "Hello, World!";
-        string inverted = StringInverter.TwoPointerReverse(input);
-        Console.WriteLine("Original: " + input);
-        Console.WriteLine("Inverted: " + inverted);
+        // string input = "Hello, World!";
+        // string inverted = StringInverter.TwoPointerReverse(input);
+        // Console.WriteLine("Original: " + input);
+        // Console.WriteLine("Inverted: " + inverted);
     }
+    
 }

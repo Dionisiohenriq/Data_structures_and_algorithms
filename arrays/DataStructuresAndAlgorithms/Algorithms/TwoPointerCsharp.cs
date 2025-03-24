@@ -87,7 +87,7 @@ public class StringInverter
             }
             else
             {
-                res += Array.Reverse(charArray, left, right + 1);
+                // res += Array.Reverse(charArray, left, right + 1);
                 right++;
                 left = right;
             }
