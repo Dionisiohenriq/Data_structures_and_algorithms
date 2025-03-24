@@ -97,4 +97,35 @@ public class StringInverter
         return res.TrimStart();
     }
 
+    public static int FirstUniqueChar(string s)
+    {
+
+        var indexes = Enumerable.Range(0, s.Length);
+        var caracteres = s.AsEnumerable();
+        var result = indexes.Zip(caracteres, (index, caractere) => new { Index = index, Char = caractere });
+
+        var dictionary = new Dictionary<char, IList<int>>();
+
+        foreach (var item in result)
+        {
+            if (!dictionary.ContainsKey(item.Char))
+            {
+                dictionary[item.Char] = [item.Index, 1];
+            }
+            else
+            {
+                dictionary[item.Char][1]++;
+            }
+        }
+
+        foreach (var item in dictionary)
+        {
+            if (item.Value[1] == 1)
+                return item.Value[0];
+
+        }
+        return -1;
+    }
+
 }
+
